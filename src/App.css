@@ -1,0 +1,78 @@
+#root {
+    justify-content: center;
+    display: flex;
+    margin: 20px 400px 200px 400px;
+  
+}
+
+
+.borda{
+  
+    padding: 10px 100px 35px 100px;
+}
+
+.titulo {
+    padding: 100px 1px 100px 1px;
+    text-align-last: center;
+    font-family:'Times New Roman', Times, serif;
+    
+}
+
+.nome {
+    padding: 1px 30px 1px 30px;
+    text-align: right;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.INTRO h2 {
+    margin-left: 10px;
+    padding: 25px 25px 25px 25px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.Introducao span {
+    font-style: normal;
+    margin: 1px 50px 1px 50px;
+    padding: 25px 25px 25px 25px;
+    font-family:'Times New Roman', Times, serif;
+   
+}
+
+
+.Introducao h2 {
+    margin: 1px 50px 1px 50px;
+    padding: 1px 0px 6px 25px;
+    font-family:'Times New Roman', Times, serif;
+    
+}
+
+.Introducao h3 {
+    padding: 1px 0px 6px 25px;
+     font-family:'Times New Roman', Times, serif;
+}
+
+
+.dark {
+    background-color: #333;
+    color: #fff;
+    box-shadow: 0px 25px 10px 10px grey ;
+    margin: 0;
+  
+}
+
+.light {
+    background-color: #fff;
+    color: #333;
+    margin: 2;
+    box-shadow: 0px 25px 10px 10px grey ;
+    }
+
+button {
+    position: relative;
+    width: 100px;
+    height: 40px;
+    border-radius: 25px;
+    cursor: pointer;
+    background-color: #9b9292;
+    margin: 0cqmax;
+}
